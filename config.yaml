@@ -1,0 +1,11 @@
+logger:
+  seqURL: "http://localhost:5341"
+  seqAPIKey: ""
+database:
+  host: "localhost"
+  port: 5433
+  user: "postgres"
+  password: "postgres"
+  dbname: "final_project"
+server:
+  port: 8080
